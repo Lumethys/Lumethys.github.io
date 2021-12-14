@@ -173,6 +173,10 @@ i {
 }
 
 @media screen and (min-width: 768px) {
+    .mainh1{
+        display: none;
+    }
+    
     header {
         grid-template-rows: auto auto;
         grid-template-columns: 1fr 2fr;
