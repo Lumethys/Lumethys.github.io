@@ -95,6 +95,7 @@ nav ul li a.active {
 #smallWarper {
     background: rgb(255, 255, 255);
     margin: 0 3%;
+    height:100%;
 }
 
 #smallWarper > div {
